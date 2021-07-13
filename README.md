@@ -1,15 +1,18 @@
 # welcome to my repos
 
-70% of them are private, but can be made available on polite request.  
+
+70% of them are private, but can be made available on request.  
 
 ***to inquire about:***
 - xworx; project proliferation in pandemic pandemonium,
 - cjmstores; cheap chinese kitschy clothes *(now defunct)*,
-- Az2sP: transfer data between amazon music and spotify,
+- Az2sP; transfer data between amazon music and spotify,
 - a.sc.a.tor.; Automatic SCaning At TORtorella, or
 - o.e.d.i.p.u.s.; Over-Engineered Decorator In Python Using Spreadsheets
 
 please text me at +1 (307)-389-7476 or email me at clark.fischer04@g.riverhead.net
+
+![trees](https://github.com/clark-fischer/clark-fischer/blob/main/final.PNG?raw=true)
 
 <!---
 - 👋 Hi, I’m @clark-fischer
