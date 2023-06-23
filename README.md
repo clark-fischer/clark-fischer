@@ -1,6 +1,5 @@
-# welcome to my repos
 
-please contact me at +1 (307)-389-7476 or email me at clark.fischer04@g.riverhead.net
+
 
 ![trees](https://github.com/clark-fischer/clark-fischer/blob/main/final.PNG?raw=true)
 
