@@ -1,5 +1,4 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clark-fischer&layout=compact)
 
 ![trees](https://github.com/clark-fischer/clark-fischer/blob/main/final.PNG?raw=true)
 
